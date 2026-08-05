@@ -1,2 +1,2 @@
 # ambersflorilegium
-My portfolio of writing, narration and other projects
+My portfolio website of writing, narration and other projects
