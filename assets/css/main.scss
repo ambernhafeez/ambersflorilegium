@@ -314,7 +314,7 @@ a:hover {
   font-weight: 400;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  color: #526b52;
+  color: #660033;
   margin-bottom: 3rem;
 }
 
@@ -342,7 +342,7 @@ a:hover {
   font-size: 0.85rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: #526b52;
+  color: #660033;
   margin-bottom: 1rem;
 }
 
@@ -356,7 +356,7 @@ a:hover {
 .press-project-author {
   font-family: Georgia, "Times New Roman", serif;
   font-style: italic;
-  color: #526b52;
+  color: #660033;
 }
 
 .press-project-content > p {
@@ -367,7 +367,7 @@ a:hover {
   display: inline-block;
   margin-top: 0.5rem;
   font-family: Georgia, "Times New Roman", serif;
-  color: #526b52;
+  color: #660033;
   text-decoration: none;
 }
 
@@ -391,7 +391,175 @@ a:hover {
 
 .press-project .press-project-meta {
   font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.9rem;
+  font-style: normal;
+  letter-spacing: 0.04em;
+  color: #77736a;
+  margin: 0 0 1.5rem;
+}
+
+.florilegium-audio {
+  margin: 2rem 0;
+  padding: 1.5rem 0;
+  border-top: 1px solid #d8d3c7;
+  border-bottom: 1px solid #d8d3c7;
+}
+
+.florilegium-audio .audio-label {
+  margin-bottom: 0.75rem;
+  font-family: Georgia, "Times New Roman", serif;
   font-style: italic;
+  color: #660033;
+}
+
+.florilegium-audio audio {
+  width: 100%;
+}
+
+.florilegium-contact-cta {
+  max-width: 700px;
+  margin: 2rem auto 6rem;
+  padding: 3rem 2rem;
+  text-align: center;
+  border-top: 1px solid #d8d3c7;
+  border-bottom: 1px solid #d8d3c7;
+}
+
+.florilegium-contact-cta h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.8rem;
+  font-weight: 400;
+  margin: 0 0 1rem;
+}
+
+.florilegium-contact-cta p {
+  max-width: 550px;
+  margin: 0 auto 1.5rem;
+  line-height: 1.7;
+}
+
+.florilegium-contact-link {
+  font-family: Georgia, "Times New Roman", serif;
+  color: #660033;
+  text-decoration: none;
+}
+
+.florilegium-contact-link:hover {
+  color: #394d39;
+}
+.florilegium-contact-content {
+  max-width: 650px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.florilegium-email {
+  margin-top: 2.5rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.2rem;
+}
+
+.florilegium-email a {
   color: #526b52;
-  margin-bottom: 1.5rem;
+  text-decoration: none;
+  border-bottom: 1px solid #d8d3c7;
+  padding-bottom: 0.2rem;
+}
+
+.florilegium-email a:hover {
+  color: #394d39;
+  border-bottom-color: #526b52;
+}
+
+
+.science-section {
+  max-width: 800px;
+  margin: 0 auto 5rem;
+}
+
+.science-section > h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.8rem;
+  font-weight: 400;
+  margin-bottom: 2.5rem;
+}
+
+.science-timeline-item {
+  padding: 0 0 2.5rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid #d8d3c7;
+}
+
+.science-timeline-item:last-child {
+  border-bottom: none;
+}
+
+.science-date {
+  font-family: Georgia, "Times New Roman", serif;
+  color: #526b52;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.5rem;
+}
+
+.science-timeline-item h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin: 0 0 0.3rem;
+}
+
+.science-institution {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+.science-research-list {
+  line-height: 1.9;
+  padding-left: 1.5rem;
+}
+
+.science-publication {
+  padding: 0 0 2rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #d8d3c7;
+}
+
+.science-publication:last-child {
+  border-bottom: none;
+}
+
+.science-publication h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.3rem;
+  font-weight: 400;
+  margin-bottom: 0.75rem;
+}
+
+.science-publication a {
+  font-family: Georgia, "Times New Roman", serif;
+  color: #526b52;
+  text-decoration: none;
+}
+
+.science-publication a:hover {
+  color: #394d39;
+}
+
+.science-profile-links {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.science-profile-links a {
+  font-family: Georgia, "Times New Roman", serif;
+  color: #526b52;
+  text-decoration: none;
+}
+
+.science-profile-links a:hover {
+  color: #394d39;
 }
