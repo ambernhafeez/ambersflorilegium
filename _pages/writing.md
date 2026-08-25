@@ -88,7 +88,7 @@ permalink: /writing/
       </p>
 
       <a href="/writing/peer-review-stories/">
-        Explore the project →
+        Explore stories →
       </a>
 
     </article>
@@ -112,7 +112,7 @@ permalink: /writing/
       </p>
 
       <a href="/writing/submission/">
-        Explore the project →
+        Explore the novel →
       </a>
 
     </article>
