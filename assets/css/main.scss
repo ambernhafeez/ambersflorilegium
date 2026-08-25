@@ -168,7 +168,7 @@ a:hover {
 .florilegium-masthead {
   max-width: 1000px;
   margin: 0 auto;
-  padding-top: 8rem;
+  padding-top: 5rem;
   text-align: center;
 }
 
@@ -187,4 +187,118 @@ a:hover {
   height: 1px;
   margin: 2rem auto 0;
   background: #526b52;
+}
+
+.florilegium-page {
+  max-width: 900px;
+  margin: 5rem auto 7rem;
+}
+
+.florilegium-page-header {
+  text-align: center;
+  margin-bottom: 4rem;
+  padding-top: 4rem;
+}
+
+.florilegium-page-header h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2.8rem, 6vw, 4.5rem);
+  font-weight: 400;
+  line-height: 1.1;
+  margin-bottom: 1.5rem;
+}
+
+.florilegium-page-header .page-subtitle {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  color: #526b52;
+  font-size: 1.1rem;
+}
+
+.florilegium-rule {
+  width: 80px;
+  height: 1px;
+  margin: 2rem auto;
+  background: #526b52;
+}
+
+.florilegium-qualification {
+  max-width: 800px;
+  margin: 5rem auto 6rem;
+  padding: 2.5rem 0;
+  border-top: 1px solid #d8d3c7;
+  border-bottom: 1px solid #d8d3c7;
+}
+
+.florilegium-qualification h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2rem;
+  font-weight: 400;
+  margin: 0 0 0.5rem;
+}
+
+.florilegium-qualification .qualification-meta {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  color: #526b52;
+  margin-bottom: 1.5rem;
+}
+
+.florilegium-qualification p {
+  line-height: 1.8;
+}
+
+.florilegium-projects {
+  max-width: 800px;
+  margin: 5rem auto 0;
+}
+
+.florilegium-projects > h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #526b52;
+  margin-bottom: 3rem;
+}
+
+.florilegium-project {
+  padding: 0 0 3.5rem;
+  margin-bottom: 3.5rem;
+  border-bottom: 1px solid #d8d3c7;
+}
+
+.florilegium-project:last-child {
+  border-bottom: none;
+}
+
+.florilegium-project h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2rem;
+  font-weight: 400;
+  margin: 0 0 0.5rem;
+}
+
+.florilegium-project .project-meta {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  color: #526b52;
+  margin-bottom: 1.5rem;
+}
+
+.florilegium-project p {
+  line-height: 1.8;
+}
+
+.florilegium-project a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-family: Georgia, "Times New Roman", serif;
+  color: #526b52;
+  text-decoration: none;
+}
+
+.florilegium-project a:hover {
+  color: #394d39;
 }
