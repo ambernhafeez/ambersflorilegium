@@ -5,10 +5,11 @@ search: false
 
 @charset "utf-8";
 @font-face {
-  font-family: "Harrington";
-  src: url("/assets/fonts/HARRINGT.TTF") format("truetype");
+  font-family: "Harrington V1";
+  src: url("/assets/fonts/Harrington V1.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
+  font-display: swap;
 }
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -16,26 +17,27 @@ search: false
 body {
   background-color: #f8f6f0;
   color: #292824;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.page__title, h1, h2 {
+  font-family: "Harrington V1", serif !important;
+  font-weight: 400;
+}
+
+.site-title {
+  font-family: "Harrington V1", serif;
+  font-size: 1.65rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
 }
 
 h3,
 h4,
 h5,
 h6 {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: Georgia, "Times New Roman", serif !important;
   font-weight: 400;
-}
-
-.page__title, h1, h2 {
-  font-family: "Harrington", serif;
-  font-weight: 400;
-}
-
-.site-title {
-  font-family: "Harrington", serif;
-  font-size: 1.65rem;
-  font-weight: 400;
-  letter-spacing: 0.02em;
 }
 
 /* accent colours */
@@ -233,7 +235,7 @@ a:hover {
   border-bottom: 1px solid #d8d3c7;
 }
 
-.florilegium-qualification h2 {
+.florilegium-qualification h3 {
   font-family: Georgia, "Times New Roman", serif;
   font-size: 2rem;
   font-weight: 400;

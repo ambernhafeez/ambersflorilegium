@@ -30,7 +30,7 @@ permalink: /writing/
 
 <section class="florilegium-qualification">
 
-  <h2>Creative Writing (Prose Fiction) MA</h2>
+  <h3>Creative Writing (Prose Fiction) MA</h3>
 
   <p class="qualification-meta">
     University of East Anglia · 2025–2027
