@@ -1,0 +1,190 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+body {
+  background-color: #f8f6f0;
+  color: #292824;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 400;
+}
+
+.page__title {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 400;
+}
+
+.site-title {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.65rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+
+/* accent colours */
+a {
+  color: #526b52;
+}
+
+a:hover {
+  color: #394d39;
+}
+
+/* buttons - squareish */
+.btn {
+  background-color: #526b52;
+  border-radius: 0;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.btn:hover {
+  background-color: #394d39;
+}
+
+/* navigation */
+.masthead {
+  border-bottom: 1px solid #d8d3c7;
+}
+
+.greedy-nav {
+  background: transparent;
+}
+
+.greedy-nav a {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+}
+
+/* site title formatting */.site-title {
+  font-size: 1.4rem;
+  letter-spacing: 0.04em;
+}
+
+/* give the content more breathing room */
+.page__content {
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+.page__content p {
+  margin-bottom: 1.5em;
+}
+
+.page {
+  max-width: 1100px;
+}
+
+/* Amber's Florilegium homepage */
+
+.florilegium-intro {
+  max-width: 760px;
+  margin: 3rem auto 5rem;
+  text-align: center;
+}
+
+.florilegium-intro p {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.2rem;
+  line-height: 1.7;
+}
+
+.florilegium-intro .florilegium-tagline {
+  margin-bottom: 2rem;
+  font-size: 1.3rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #526b52;
+}
+
+.florilegium-sections {
+  max-width: 1000px;
+  margin: 0 auto 5rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  background: #d8d3c7;
+  border: 1px solid #d8d3c7;
+}
+
+.florilegium-section {
+  display: block;
+  padding: 3.5rem 3rem;
+  background: #f8f6f0;
+  color: #292824 !important;
+  text-decoration: none;
+  transition: background-color 0.25s ease;
+}
+
+.florilegium-section:hover {
+  background: #f1eee5;
+  color: #292824;
+}
+
+.florilegium-section h2 {
+  margin-top: 0;
+  margin-bottom: 1.2rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 400;
+  font-size: 2rem;
+  letter-spacing: 0.01em;
+}
+
+.florilegium-section p {
+  line-height: 1.7;
+  margin-bottom: 2rem;
+}
+
+.florilegium-section span {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.95rem;
+  color: #526b52;
+  letter-spacing: 0.03em;
+}
+
+.florilegium-divider {
+  text-align: center;
+  margin: -2rem auto 3rem;
+  color: #526b52;
+  font-size: 1.2rem;
+}
+
+.florilegium-masthead {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-top: 8rem;
+  text-align: center;
+}
+
+.florilegium-masthead h1 {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(3rem, 7vw, 5.5rem);
+  font-weight: 400;
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+  color: #292824;
+}
+
+.florilegium-rule {
+  width: 80px;
+  height: 1px;
+  margin: 2rem auto 0;
+  background: #526b52;
+}
