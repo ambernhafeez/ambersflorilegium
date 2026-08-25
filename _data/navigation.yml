@@ -7,13 +7,17 @@ main:
   - title: "Florilegium Press: Audiobooks"
     url: /florilegium-press/
   - title: "Journal"
-    url: /blog/
+    url: /journal/
+  - title: "Editing & Mentoring"
+    url: /editing-mentoring/
   - title: "Science"
     url: /science/
   - title: "Ambyte: Video Games"
     url: /ambyte-game-dev/
   - title: "Art"
     url: /art/
+  - title: "Website"
+    url: /website/
   - title: "Contact"
     url: /contact/
 

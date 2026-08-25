@@ -1,17 +1,17 @@
 ---
 layout: splash
-title: "Ambye: Video Game Development"
-permalink: /ambyte-game-dev/
+title: "Website"
+permalink: /website/
 ---
 
 <div class="florilegium-page">
 
   <header class="florilegium-page-header">
 
-    <h1>Ambyte: a solo dev project</h1>
+    <h1>This website</h1>
 
     <p class="page-subtitle">
-      2D games · Pixel art · Retro fun feeling
+      GitHub Pages · Jekyll · Design
     </p>
 
     <div class="florilegium-rule"></div>

@@ -1,17 +1,17 @@
 ---
 layout: splash
-title: "Ambye: Video Game Development"
-permalink: /ambyte-game-dev/
+title: "Editing and Mentoring"
+permalink: /editing-mentoring/
 ---
 
 <div class="florilegium-page">
 
   <header class="florilegium-page-header">
 
-    <h1>Ambyte: a solo dev project</h1>
+    <h1>Editing & Mentoring</h1>
 
     <p class="page-subtitle">
-      2D games · Pixel art · Retro fun feeling
+      Copyediting · Critical review · Mentorship
     </p>
 
     <div class="florilegium-rule"></div>
@@ -22,7 +22,7 @@ permalink: /ambyte-game-dev/
   <div class="florilegium-page-intro">
 
     <p>
-      
+      Let me help you! Please get in touch.
     </p> 
 
     <p>

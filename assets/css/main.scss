@@ -563,3 +563,31 @@ a:hover {
 .science-profile-links a:hover {
   color: #394d39;
 }
+
+/* Homepage boxes — mobile layout */
+
+@media (max-width: 700px) {
+
+  .florilegium-sections {
+    grid-template-columns: 1fr;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .florilegium-section {
+    padding: 2rem;
+  }
+
+  .florilegium-section h2 {
+    font-size: 1.6rem;
+  }
+  .florilegium-intro {
+    margin: 3rem auto 4rem;
+    padding: 0 1rem;
+  }
+
+  .florilegium-intro p {
+    font-size: 1.15rem;
+  }
+
+}
