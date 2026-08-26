@@ -53,7 +53,7 @@ permalink: /florilegium-press/
   <article class="press-project">
 
     <div class="press-project-image">
-      <!-- Add cover image here later -->
+      <img src="{{ '/assets/images/onapincushion-frontspiece.png' | relative_url }}" alt="First page of On A Pincushion book">
     </div>
 
     <div class="press-project-content">
@@ -85,7 +85,7 @@ permalink: /florilegium-press/
         <p class="audio-label">Listen to a sample</p>
 
         <audio controls preload="metadata">
-          <source src="/assets/audio/on-a-pincushion-sample.mp3" type="audio/mpeg">
+          <source src="/assets/audio/03-On A Pincushion Frame Begins.mp3" type="audio/mpeg">
           Your browser does not support the audio element.
         </audio>
 

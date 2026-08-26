@@ -319,10 +319,9 @@ a:hover {
 
 .press-projects > h2 {
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: 400;
   letter-spacing: 0.12em;
-  text-transform: uppercase;
   color: #660033;
   margin-bottom: 3rem;
 }
@@ -337,9 +336,20 @@ a:hover {
 }
 
 .press-project-image {
-  min-height: 300px;
-  background: #ebe7dc;
-  border: 1px solid #d8d3c7;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 1.5rem auto;
+  padding: 0;
+}
+
+.press-project-image img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 500px;
+  margin: 0 auto;
 }
 
 .press-project-content {
