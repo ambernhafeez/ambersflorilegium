@@ -11,7 +11,7 @@ permalink: /science/
     <h1>Science</h1>
 
     <p class="page-subtitle">
-      Plant pathology · Crop genetics · Research
+      Primary research · Literature reviews · Professionalism
     </p>
 
     <div class="florilegium-rule"></div>
@@ -54,7 +54,7 @@ permalink: /science/
 
       <li>Phytopathology and gene mapping projects in potatoes and legumes</li>
 
-      <li>Working with scientists adn breeding industry stakeholders to develop a prooposal for sustainable disease resistance gene deployment</li>
+      <li>Working with scientists and breeding industry stakeholders to develop a proposal for sustainable disease resistance gene deployment</li>
 
     </ul>
 
