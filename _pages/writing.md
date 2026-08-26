@@ -109,7 +109,7 @@ permalink: /writing/
         My poem 'The Visitor', based on my PhD research, has been published in <i>Consilience</i>. I also perform my poetry at open mic events in Norwich.
       </p>
 
-      <a href="/writing/project-name/">
+      <a href="/writing/poetry/">
         Explore poetry →
       </a>
 
@@ -132,7 +132,7 @@ permalink: /writing/
         This has been a freeing space for me to share ideas, thoughts and reflections. In the future, I also hope to use the newsletter to connect with readers of my original work as well as listeners of my audiobooks, providing insights to my process and literary/academic inspirations. 
       </p>
 
-      <a href="/writing/florilegium-journal/">
+      <a href="/journal/">
         Explore the journal →
       </a>
 
