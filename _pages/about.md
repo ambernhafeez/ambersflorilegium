@@ -1,4 +1,5 @@
 ---
+layout: splash
 title: "About"
 permalink: /about/
 ---
@@ -12,7 +13,7 @@ A florilegium is a collection of flowers or carefully curated pieces of literatu
 
 Florilegium Press is an independent publisher of audiobooks specialising in overlooked writers or works. 
 
-### Blog (available on Substack as Amber's Florilegium)
+### Blog (available on Substack as From the Florilegium)
 
 Essays on a variety of topics, including writing, science, academia, art and spirituality. As well as the main essay, each post also reflects upon quotes from my favourite literary works. 
 

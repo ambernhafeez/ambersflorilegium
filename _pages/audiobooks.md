@@ -10,7 +10,7 @@ permalink: /florilegium-press/
 
     <h1>Florilegium Press</h1>
 
-    <p class="page-subtitle">
+    <p class="page-subtitle florilegium-press-subtitle">
       Rediscovered voices · Audiobook narration · Wide distribution 
     </p>
 
@@ -164,7 +164,13 @@ permalink: /florilegium-press/
     Check back here for updates. You can also follow @ambersflorilegium on Substack or sign up for the free newsletter!
   </p>
 
-  <iframe src="https://ambersflorilegium.substack.com/embed?transparent=1" width="480" height="320" style="border: 0; background: transparent" frameborder="0" scrolling="no"></iframe>
+  <iframe 
+    src="https://ambersflorilegium.substack.com/embed?transparent=1" 
+    width="100%" 
+    height="320" 
+    style="border: 0; background: transparent; max-width: 480px; width: 100%;" 
+    frameborder="0" scrolling="no">
+  </iframe>
 
 
 

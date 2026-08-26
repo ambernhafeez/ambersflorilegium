@@ -308,6 +308,10 @@ a:hover {
   color: #394d39;
 }
 
+.florilegium-press-subtitle {
+  color: #660033 !important;
+}
+
 .press-projects {
   max-width: 900px;
   margin: 6rem auto 0;
@@ -601,3 +605,227 @@ a:hover {
     font-size: 1.5rem;
 }
 
+/* --------------------------------
+   Journal
+   -------------------------------- */
+
+.florilegium-journal-entries {
+  max-width: 800px;
+  margin: 5rem auto 6rem;
+}
+
+.florilegium-journal-entries > h2 {
+  font-family: "Harrington", Georgia, "Times New Roman", serif !important;
+  font-size: 2.2rem;
+  font-weight: 400;
+  text-align: center;
+  margin: 3rem 0 3rem;
+}
+
+.journal-entry {
+  padding: 2.5rem 0;
+  border-bottom: 1px solid #d8d3c7;
+}
+
+.journal-entry:first-child {
+  border-top: 1px solid #d8d3c7;
+}
+
+.journal-entry h3 {
+  margin: 0 0 0.4rem;
+  font-family: "Harrington", Georgia, "Times New Roman", serif !important;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3;
+}
+
+.journal-entry h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.journal-entry h3 a:hover {
+  color: #526b52;
+}
+
+.journal-date {
+  margin: 0 0 1.2rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #526b52;
+}
+
+.journal-excerpt {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1rem;
+  line-height: 1.75;
+  margin-bottom: 1.2rem;
+}
+
+.journal-read-more {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.9rem;
+  color: #526b52;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+
+.journal-read-more:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+
+  .florilegium-journal-entries {
+    margin: 4rem 1.25rem 5rem;
+  }
+
+  .florilegium-journal-entries > h2 {
+    font-size: 1.9rem;
+    margin: 2.5rem 0;
+  }
+
+  .journal-entry {
+    padding: 2rem 0;
+  }
+
+  .journal-entry h3 {
+    font-size: 1.5rem;
+  }
+
+  .journal-excerpt {
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+
+}
+
+/* --------------------------------
+   Devlog
+   -------------------------------- */
+
+.devlog-intro {
+  max-width: 700px;
+  margin: 3rem auto 5rem;
+  text-align: left;
+}
+
+.devlog-intro h2 {
+  font-family: "Harrington", Georgia, "Times New Roman", serif !important;
+  font-size: 2rem;
+  font-weight: 400;
+  margin: 0 0 1rem;
+}
+
+.devlog-intro p {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1rem;
+  line-height: 1.7;
+  margin: 0;
+}
+
+
+.devlog-entries {
+  max-width: 800px;
+  margin: 0 auto 6rem;
+}
+
+.devlog-entries > h2 {
+  font-family: "Harrington", Georgia, "Times New Roman", serif !important;
+  font-size: 2.2rem;
+  font-weight: 400;
+  text-align: center;
+  margin: 3rem 0;
+}
+
+
+.devlog-entry {
+  padding: 2.5rem 0;
+  border-bottom: 1px solid #d8d3c7;
+}
+
+.devlog-entry:first-child {
+  border-top: 1px solid #d8d3c7;
+}
+
+
+.devlog-date {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: #526b52;
+  margin: 0 0 0.5rem;
+}
+
+
+.devlog-entry h3 {
+  margin: 0 0 0.8rem;
+  font-family: "Harrington", Georgia, "Times New Roman", serif !important;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.3;
+}
+
+.devlog-entry h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.devlog-entry h3 a:hover {
+  color: #526b52;
+}
+
+
+.devlog-excerpt {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1rem;
+  line-height: 1.75;
+  margin-bottom: 1rem;
+}
+
+
+.devlog-read-more {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.9rem;
+  color: #526b52;
+  text-decoration: none;
+}
+
+.devlog-read-more:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+
+  .devlog-intro {
+    margin: 2.5rem 1.25rem 4rem;
+  }
+
+  .devlog-intro h2 {
+    font-size: 1.7rem;
+  }
+
+  .devlog-entries {
+    margin-left: 1.25rem;
+    margin-right: 1.25rem;
+  }
+
+  .devlog-entries > h2 {
+    font-size: 1.9rem;
+    margin: 2.5rem 0;
+  }
+
+  .devlog-entry {
+    padding: 2rem 0;
+  }
+
+  .devlog-entry h3 {
+    font-size: 1.45rem;
+  }
+
+  .devlog-excerpt {
+    font-size: 0.95rem;
+  }
+
+}

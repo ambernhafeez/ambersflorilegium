@@ -2,12 +2,12 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Journal"
+    url: /journal/
   - title: "Writing"
     url: /writing/
   - title: "Florilegium Press: Audiobooks"
     url: /florilegium-press/
-  - title: "Journal"
-    url: /journal/
   - title: "Editing & Mentoring"
     url: /editing-mentoring/
   - title: "Science"
@@ -16,8 +16,8 @@ main:
     url: /ambyte-game-dev/
   - title: "Art"
     url: /art/
-  - title: "Website"
-    url: /website/
+  - title: "Website Devlog"
+    url: /devlog/
   - title: "Contact"
     url: /contact/
 

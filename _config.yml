@@ -19,6 +19,10 @@ locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
 title                    : "Amber's Florilegium"
 title_separator          : "-"
+collections:
+  devlog:
+    output: true
+    permalink: /devlog/:name/
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Amber's Florilegium"
 description              : "A collection of stories, literature, discoveries and curiosities. Explore my creative world."

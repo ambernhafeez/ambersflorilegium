@@ -50,29 +50,6 @@ permalink: /writing/
 
     <h2>Projects</h2>
 
-    <!-- PROJECT 1 -->
-
-    <article class="florilegium-project">
-
-      <h3>Florilegium Journal</h3>
-
-      <p class="project-meta">
-        Essays/Newsletter · Published on Substack
-      </p>
-
-      <p>
-        In my Substack newsletter, I discuss quotes/extracts from literary works and publish essays on topics such as my creative journey, science, academia, lifestyle, spirituality and more. I also share original art.
-      </p>
-      <p>
-        This has been a freeing space for me to share ideas, thoughts and reflections. In the future, I also hope to use the newsletter to connect with readers of my original work as well as listeners of my audiobooks, providing insights to my process and literary/academic inspirations. 
-      </p>
-
-      <a href="/writing/florilegium-journal/">
-        Explore the journal →
-      </a>
-
-    </article>
-
     <!-- PROJECT 2 -->
 
     <article class="florilegium-project">
@@ -134,6 +111,29 @@ permalink: /writing/
 
       <a href="/writing/project-name/">
         Explore poetry →
+      </a>
+
+    </article>
+
+    <!-- PROJECT 1 -->
+
+    <article class="florilegium-project">
+
+      <h3>From the Florilegium</h3>
+
+      <p class="project-meta">
+        Essays/Newsletter · Published on Substack
+      </p>
+
+      <p>
+        In my Substack newsletter, I discuss quotes/extracts from literary works and publish essays on topics such as my creative journey, science, academia, lifestyle, spirituality and more. I also share original art.
+      </p>
+      <p>
+        This has been a freeing space for me to share ideas, thoughts and reflections. In the future, I also hope to use the newsletter to connect with readers of my original work as well as listeners of my audiobooks, providing insights to my process and literary/academic inspirations. 
+      </p>
+
+      <a href="/writing/florilegium-journal/">
+        Explore the journal →
       </a>
 
     </article>
