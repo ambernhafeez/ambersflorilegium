@@ -222,10 +222,28 @@ permalink: /science/
           2017–2022
         </p>
 
-        <h3>PhD Researcher</h3>
+        <h3>Postgraduate Researcher</h3>
 
         <p class="science-institution">
           John Innes Centre, Norwich Research Park 
+        </p>
+
+        <p>
+          PhD in Crop Genetics
+        </p>
+
+      </div>
+
+      <div class="science-timeline-item">
+
+        <p class="science-date">
+          2016–2017
+        </p>
+
+        <h3>Research Intern</h3>
+
+        <p class="science-institution">
+          Natural History Museum, London
         </p>
 
         <p>
@@ -234,6 +252,24 @@ permalink: /science/
 
       </div>
 
+      <div class="science-timeline-item">
+
+        <p class="science-date">
+          2013–2016
+        </p>
+
+        <h3>Undergraduate Student</h3>
+
+        <p class="science-institution">
+          University of Southampton 
+        </p>
+
+
+        <p>
+          BSc Biology (1st Class)
+        </p>
+
+      </div>
 
     </div>
 
