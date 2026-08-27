@@ -40,7 +40,13 @@ author_profile: false
     If you'd like to recieve the free newsletter in your inbox, please sign up by typing your email below, or follow @ambersflorilegium on Substack.
   </p>
 
-  <iframe src="https://ambersflorilegium.substack.com/embed?transparent=1" width="480" height="320" style="border: 0; background: transparent" frameborder="0" scrolling="no"></iframe>
+  <iframe 
+    src="https://ambersflorilegium.substack.com/embed?transparent=1" 
+    width="100%" 
+    height="320" 
+    style="border: 0; background: transparent; max-width: 480px; width: 100%;" 
+    frameborder="0" scrolling="no">
+  </iframe>
 
 
 

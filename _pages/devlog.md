@@ -23,9 +23,9 @@ author_profile: false
   <div class="florilegium-page-intro">
 
     <p>
-      I made this website because I wanted to create my own home on the internet, a place that can grow with me. I also wanted to be part of the <a href="https://indieweb.org/">IndieWeb</a> movement, which reminds me of my formative years on the Internet.
+      I made this website because I wanted to create my own home on the internet, a place that can grow with me. I also wanted to be part of the <a href="https://indieweb.org/">IndieWeb</a>, which reminds me of my formative years on the Internet.
     </p> 
-      
+      You can check out my GitHub repository for the website <a href="https://github.com/ambernhafeez/ambersflorilegium">here</a>.
     <p>
         
     </p>
