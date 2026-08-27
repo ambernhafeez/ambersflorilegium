@@ -22,8 +22,7 @@ permalink: /ambyte-game-dev/
   <div class="florilegium-page-intro">
 
     <p>
-      
-    </p> 
+      Check out my minigames on the <a href="https://ambyte.itch.io/">Ambyte itch.io profile.</a>
 
     <p>
         
@@ -40,5 +39,3 @@ permalink: /ambyte-game-dev/
     <p>
         
     </p>
-
-  </div>
