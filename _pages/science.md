@@ -28,6 +28,15 @@ permalink: /science/
       and disease resistance. My research has focused particularly on the
       interactions between plants and the pathogens that affect them.
     </p>
+    <p>
+      I draw on my research background in my writing and other endeavours, both in the subject matter I explore and in how I approach my work. I have an eye for microscopic detail, which I connect to broader concepts, and am experienced in managing and carrying out large, involved projects, both independently and collaboratively. I love to experiment, which in my creative work manifests as stories with intricate structures and poems that play with language.
+    </p>
+    <p>
+     During my MA in Creative Writing (Prose Fiction) at UEA, I've been able to channel my love for research into critical modules, applying the research skills I developed in science to the humanities. This has allowed me to think more deeply about what my creative writing can do and how to get it there, whilst keeping it in conversation with relevant creative and critical literature. 
+    </p>
+    <p>
+      Although I've left a formal career in scientific research behind, the scientific process is part of how I think. I'm always open to new evidence and strive for novelty and precision in everything I do.
+    </p>
 
   </div>
 
@@ -39,7 +48,7 @@ permalink: /science/
     <h2>Research</h2>
 
     <p>
-      My research has included:
+      Some realms my research has explored:
     </p>
 
     <ul class="science-research-list">
@@ -148,20 +157,20 @@ permalink: /science/
 
   <section class="science-section">
 
-    <h2>Academic career</h2>
+    <h2>Academic positions</h2>
 
     <div class="science-timeline">
 
       <div class="science-timeline-item">
 
         <p class="science-date">
-          20XX–20XX
+          2023–2025
         </p>
 
-        <h3>Position or degree</h3>
+        <h3>Freelance Consultant</h3>
 
         <p class="science-institution">
-          University / Institution
+          King Abdullah University of Science and Technology (Remote)
         </p>
 
         <p>
@@ -174,13 +183,13 @@ permalink: /science/
       <div class="science-timeline-item">
 
         <p class="science-date">
-          20XX–20XX
+          2023–2024
         </p>
 
-        <h3>Position or degree</h3>
+        <h3>Postdoctoral Researcher</h3>
 
         <p class="science-institution">
-          University / Institution
+          The Sainsbury Laboratory, Norwich Research Park   
         </p>
 
         <p>
@@ -188,18 +197,17 @@ permalink: /science/
         </p>
 
       </div>
-
 
       <div class="science-timeline-item">
 
         <p class="science-date">
-          20XX–20XX
+          2022–2023
         </p>
 
-        <h3>Position or degree</h3>
+        <h3>Postdoctoral Researcher</h3>
 
         <p class="science-institution">
-          University / Institution
+          John Innes Centre, Norwich Research Park 
         </p>
 
         <p>
@@ -207,6 +215,25 @@ permalink: /science/
         </p>
 
       </div>
+
+      <div class="science-timeline-item">
+
+        <p class="science-date">
+          2017–2022
+        </p>
+
+        <h3>PhD Researcher</h3>
+
+        <p class="science-institution">
+          John Innes Centre, Norwich Research Park 
+        </p>
+
+        <p>
+          
+        </p>
+
+      </div>
+
 
     </div>
 

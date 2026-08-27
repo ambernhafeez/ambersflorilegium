@@ -30,7 +30,7 @@ permalink: /florilegium-press/
     </p>
 
     <p>
-      The press focuses particularly on works by women, folklore, science and nature writing, and other literary curiosities.
+      The press focuses particularly on folklore, fairy tales, science and nature writing and other literary curiosities.
     </p>
 
     <p>
@@ -38,7 +38,7 @@ permalink: /florilegium-press/
     </p>
 
     <p>
-        The audiobooks are recorded, produced and mastered to meet industry standards. Through Author's Republic, Florilegium Press audiobooks are widely distrubuted to all major platforms and to libraries. 
+        The audiobooks are recorded, edited and mastered to industry standards. Through Author's Republic and Spotify, Florilegium Press audiobooks are widely distrubuted to libraries and all major platforms. 
     </p>
 
   </div>
@@ -77,7 +77,7 @@ permalink: /florilegium-press/
         published in 1877, but has since fallen out of the spotlight. This audiobook brings to life a fantastical cast of characters, from fairies to clockwork princesses to talking tigresses. Written for children but engaging enough to ensare adults, this collection of fairy stories feels fresh despite its Victorian bones.
       </p>
       <p>
-        This audiobook also includes an introduction by the narrator (myself, Amber N. Hafeez) and a reading of a Spectator article from 1976, reviewing the book upon its release. These tracks bookend the collection, providing historical context.
+        This audiobook also includes an introduction by the narrator (myself, Amber N. Hafeez) which outlines Mary De Morgan's background and introduces each tale. A Spectator article from 1976 is read at the end of the audiobook, that reviewed On A Pincushion upon its release. These tracks bookend the collection, providing historical context unique to this edition.
       </p>
 
       <div class="florilegium-audio">
