@@ -54,7 +54,7 @@ permalink: /writing/
 
     <article class="florilegium-project">
 
-      <h3>Peer Review</h3>
+      <h3>Working title: Peer Review</h3>
 
       <p class="project-meta">
         Short story collection · Work in progress
@@ -64,9 +64,6 @@ permalink: /writing/
         These stories centre around scientists working at the same research institution. Their lives intersect, loosely connecting the stories. 
       </p>
 
-      <a href="/writing/peer-review-stories/">
-        Explore stories →
-      </a>
 
     </article>
 
@@ -87,10 +84,6 @@ permalink: /writing/
       <p>
         This novel in progress could appeal to readers of Conversations With Friends by Sally Rooney, Moth Smoke by Mohsin Hamid and Stoner by John Williams.
       </p>
-
-      <a href="/writing/submission/">
-        Explore the novel →
-      </a>
 
     </article>
 
