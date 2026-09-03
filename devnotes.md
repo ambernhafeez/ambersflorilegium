@@ -85,3 +85,9 @@ author_profile: false
 ## Learning CSS
 Flexbox
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+
+## Protection from bots
+I added a robots.txt file to  hopefully prevent content from being scraped by LLMs etc - primary concern is protecting my original writing/blog posts. 
+A free account with CloudFlare should also reduce bot scraping, need to set up: https://www.cloudflare.com/plans/#application-services
+

@@ -53,7 +53,7 @@ permalink: /florilegium-press/
   <article class="press-project">
 
     <div class="press-project-image">
-      <img src="{{ '/assets/images/onapincushion-frontspiece.png' | relative_url }}" alt="First page of On A Pincushion book">
+      <img src="{{ '/assets/images/On_A_Pincushion-AudiobookCover.png' | relative_url }}" alt="First page of On A Pincushion book">
     </div>
 
     <div class="press-project-content">
