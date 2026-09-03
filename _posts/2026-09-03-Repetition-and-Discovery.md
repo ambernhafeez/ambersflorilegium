@@ -8,6 +8,33 @@ excerpt: "Cycle with me through thoughts on repetition."
 
 ---
 
+Dear Reader,
+
+Autumn has come again, and I'm enjoying the novelty of wearing long trousers and cardigans, even if they have to be worn under my waterproof. Summer was wonderful, but it was also worryingly hot. I'm shifting my mindset from daydreaming, sun-basking lizard to hardworking MA student with books to write. Autumn is such a beautiful season; I'm hoping to complete some projects before the leaves shudder off the trees and the conkers come crashing down. 
+
+In honour of the departure of summer, I've attached a watercolour painting of the view from my partner's house in Greece which looks out to the sea, where we spent a few idyllic weeks last month.
+
+I'm very excited to announce that I've launched a website, ambersflorilegium.com, which will now host the first editions of these posts in the 'Journal'. The website is also an in-progress portfolio for all my creative and STEM-related projects. It feels great to have my own domain - a space on the internet where I have complete control! I'll post more about the website and upcoming projects soon.
+
+I've included a very short quote this time, and then I'll talk about how iterative both research and writing are. I hope it helps in considering your own winding progress.
+
+Warm wishes,
+
+Amber
+
+# The Jinni to the Fisherman
+
+<blockquote>
+<p>"This is no time for stories: I am in a cage. But if you set me free, I will relate it."</p>
+<cite>From The Story of the Fisherman and the Jinni in The Annotated Arabian Nights: Tales From 1001 Nights, translated by Yasmine Seele</cite>
+</blockquote>
+
+There is no better way to set off a chain reaction of storytelling than a gambit like this one. This is just one of countless tales in the 1001 Nights where characters try to manipulate and school each other through the use of stories - all of which are really stories told to King Shahriyar, whom Shahrazad is trying to mellow in order to keep her head.
+
+Each story adds subtle layers that form a kaleidoscopic patina as you read on and on. I have a lot more to say about the 1001 Nights in the future, but for now... 
+
+# On Repetition and Discovery
+
 I'm writing a short story about an early-career scientist who repeats the same experiment over and over again, fails, but learns something about themselves, the scientific process and the experiment each time. This story has a typical nested story structure, with sciencey backdrops and costumes. Equally, science is as typical of the human experience as anything else, because anything can be experiment and research. In both cases, people are not as objective about their progress and the interpretation of their results as they should be. We all hope for a certain outcome when we start something, but cannot be guaranteed a certain result; to go in expecting the exact result you planned for either results in 'failure' or introduces bias - which I would argue is the real failure.
 
 I'm trying to look at my own writing more objectively, at each draft as a replicate. A few weeks ago, I woke up and 'realised' that I had to bin the entire act 1 of my novel, because something about the timeline was a bit off and now nothing made sense and the characters were not at the right point in their development. I'd wasted all that time writing a rubbish act 1, and I was a rubbish writer who could never write a novel, etc. I then had a few coffees and read my book and went for a walk and realised that actually, it's fine. I could shift the scenes I'd written to later on and write the black hole version of them in their place, which would hopefully make those scenes more impactful when the time comes for them. I'd jumped the gun because I was excited to write those scenes, because they were important to the character and based on memories of mine that I wanted to explore. 
