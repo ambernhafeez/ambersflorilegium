@@ -37,13 +37,11 @@ permalink: /writing/
   </p>
 
   <p>
-    As well as completing my first Prose Workshop module, I've completed Poetics of Place, in which I developed my academic understanding and approach to writing place and ecopoetry.
-    <p>
-    I am currently enrolled on The Art of Short Fiction; I will develop my short story collection during this module.  
-    </p>
+    <b>Modules:</b>
   </p>
-
-</section>
+  <li>Prose Workshop - critically evaluated the work of my peers and provided feedback in the form of in-line comments and a short essay, as well as contributing to in-person discussions. I considered and synthesised the feedback of peers and the workshop lead to redraft my own work.
+  <li>Poetics of Place - developed my academic understanding and approach to writing place and ecopoetry. I wrote a short story based on a family road trip in the Karakorum mountains alongisde a critical essay analysing how this work engaged with place (in particular, the theories and material explored in the course).</li>
+  <li>The Art of Short Fiction - I will develop my short story collection during this module in the coming semester.  </li>
 
 
 <section class="florilegium-projects">
@@ -82,7 +80,7 @@ permalink: /writing/
         Ed and Sara were six months from their PhD thesis submission deadlines when the pandemic started. Ed follows an impulse to lock down in London with his long-distance girlfriend, Sofia, whilst Sara stays in her studio apartment in Norwich, cut off from the labs and people she desperately needs. A string of messages is all that tethers them to each other in this stark new world. Will they submit their theses in time, or will they submit to the disruptive forces at work in the year 2020?
       </p>
       <p>
-        This novel in progress could appeal to readers of Conversations With Friends by Sally Rooney, Moth Smoke by Mohsin Hamid and Stoner by John Williams.
+        
       </p>
 
     </article>
@@ -99,7 +97,7 @@ permalink: /writing/
       </p>
         I have written poetry on a variety of subjects, from identity and the body to place and encounters with animals. I also write science and ecopoetry. I'm currently organising and expanding my material into coherent pamphlets. 
       <p>
-        My poem 'The Visitor', based on my PhD research, has been published in <i>Consilience</i>. I also perform my poetry at open mic events in Norwich.
+        My poem 'The Visitor', based on my PhD research on the wheat pathogen <i>Septoria tritici</i> blotch, has been published in <i>Consilience</i>. I also perform my poetry at open mic events in Norwich.
       </p>
 
       <a href="/writing/poetry/">
@@ -122,7 +120,7 @@ permalink: /writing/
         In my Substack newsletter, I discuss quotes/extracts from literary works and publish essays on topics such as my creative journey, science, academia, lifestyle, spirituality and more. I also share original art.
       </p>
       <p>
-        This has been a freeing space for me to share ideas, thoughts and reflections. In the future, I also hope to use the newsletter to connect with readers of my original work as well as listeners of my audiobooks, providing insights to my process and literary/academic inspirations. 
+        This has been a freeing space for me to share ideas, thoughts and reflections, as well as providing updates on my fiction and other endeavours.
       </p>
 
       <a href="/journal/">

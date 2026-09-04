@@ -14,6 +14,9 @@ Autumn has come again, and I'm enjoying the novelty of wearing long trousers and
 
 In honour of the departure of summer, I've attached a watercolour painting of the view from my partner's house in Greece which looks out to the sea, where we spent a few idyllic weeks last month.
 
+<img src="{{ 'assets/images/Greece-watercolour-1.png' | relative_url }}"
+alt="BLack ink and watercolour painting of a patio with hamock in the foreground, opening out into a seascape with a boat and distant mountains">
+
 I'm very excited to announce that I've launched a website, ambersflorilegium.com, which will now host the first editions of these posts in the 'Journal'. The website is also an in-progress portfolio for all my creative and STEM-related projects. It feels great to have my own domain - a space on the internet where I have complete control! I'll post more about the website and upcoming projects soon.
 
 I've included a very short quote this time, and then I'll talk about how iterative both research and writing are. I hope it helps in considering your own winding progress.
