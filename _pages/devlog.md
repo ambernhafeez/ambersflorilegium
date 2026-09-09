@@ -35,12 +35,11 @@ author_profile: false
 
 <section class="devlog-intro">
   <h2>Current Development Goals</h2>
-  <li>Create all project pages that currently have dead links on the site</li>
+  <li>Refactor codebase</li>
   <li>Wireframe the site to determine major design changes</li>
   <li>Design and add in orignal graphics to enhance the site's theme</li>
-  <li>Flesh out the Editing and Mentoring page</li>
-  <li>Flesh out the Game Dev page</li>
-  <li>Flesh out the Art page</li>
+  <li>Add detailed project pages</li>
+  <li>Get RSS feed working</li>
 </section>
   <p></p>
   <h3>Completed Goals</h3>
