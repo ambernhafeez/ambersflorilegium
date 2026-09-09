@@ -131,5 +131,3 @@ permalink: /writing/
 
 
   </section>
-
-</div>

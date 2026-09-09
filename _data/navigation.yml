@@ -6,15 +6,15 @@ main:
     url: /writing/
   - title: "Florilegium Press: Audiobooks"
     url: /florilegium-press/
-  - title: "Editing & Mentoring"
-    url: /editing-mentoring/
+  - title: "Editing"
+    url: /editing/
   - title: "Science"
     url: /science/
-  - title: "Ambyte: Video Games"
-    url: /ambyte-game-dev/
+  - title: "Games Dev"
+    url: /game-dev/
   - title: "Art"
     url: /art/
-  - title: "Website Devlog"
+  - title: "Site Devlog"
     url: /devlog/
   - title: "About"
     url: /about/

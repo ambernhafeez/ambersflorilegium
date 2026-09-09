@@ -26,7 +26,7 @@ author_profile: false
       This page links to curious corners of the florilegium.
     </p>
       
-    <a href="/videogames/">
+    <a href="/game-dev/">
         To Video Games →
     </a>
     

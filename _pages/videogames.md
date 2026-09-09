@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Ambye: Video Game Development"
-permalink: /ambyte-game-dev/
+permalink: /game-dev/
 ---
 
 <div class="florilegium-page">

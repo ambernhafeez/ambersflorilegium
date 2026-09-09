@@ -8,6 +8,12 @@ permalink: /florilegium-press/
 
   <header class="florilegium-page-header">
 
+    <img src="{{ 'assets/images/FlorilegiumPressLogo-berry.png' | relative_url }}"
+    alt="Florilegium Press logo"
+    width="150" height="150">
+    <p></p>
+
+
     <h1>Florilegium Press</h1>
 
     <p class="page-subtitle florilegium-press-subtitle">
@@ -42,6 +48,7 @@ permalink: /florilegium-press/
     </p>
 
   </div>
+
 
 
 <section class="press-projects">
@@ -133,6 +140,10 @@ permalink: /florilegium-press/
       </div>
 
     </article>
+
+    <img src="{{ 'assets/images/florilegium-press-banner-twocolour.png' | relative_url }}"
+    alt="Florilegium Press logo"
+    width="1000" height="100">
 
 </div>
 
