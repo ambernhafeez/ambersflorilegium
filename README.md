@@ -1,4 +1,4 @@
-# ambersflorilegium
-My portfolio website of writing, narration and other projects.
-https://ambernhafeez.github.io/ambersflorilegium/
+# Amber's Florilegium
+My web portfolio of writing, narration and other projects.
+
 
