@@ -11,7 +11,7 @@ permalink: /science/
     <h1>Science</h1>
 
     <p class="page-subtitle">
-      Primary research · Literature reviews · Professionalism
+      Primary research · Literature reviews · Phytopathology
     </p>
 
     <div class="florilegium-rule"></div>
@@ -24,9 +24,7 @@ permalink: /science/
   <div class="florilegium-page-intro">
 
     <p>
-      I am a scientist with a background in plant pathology, crop genetics
-      and disease resistance. My research has focused particularly on the
-      interactions between plants and the pathogens that affect them.
+      I am a scientist with a background in plant pathology, crop genetics and bioinformatics. My research has focussed on the interactions between plants and the fungal pathogens that affect them, as well as shining a light on the genes working behind the scenes. I've also led and written sections for impactful review papers that address the pressing issues in my field. 
     </p>
     <p>
       I draw on my research background in my writing and other endeavours, both in the subject matter I explore and in how I approach my work. I have an eye for microscopic detail, which I connect to broader concepts, and am experienced in managing and carrying out large, involved projects, both independently and collaboratively. I love to experiment, which in my creative work manifests as stories with intricate structures and poems that play with language.
@@ -53,19 +51,23 @@ permalink: /science/
 
     <ul class="science-research-list">
 
-      <li>Plant pathology and plant–pathogen interactions</li>
+       <li>Cereal pathology (wheat and its landraces and wild relatives, especially <i>Aegilops tauschii</i>)</li>
 
-      <li>Genetics of crop disease resistance</li>
+       <li>Fungal plant pathogens, especially Septoria tritici blotch (<i>Zymoseptoria tritici</i>)</li>
+
+      <li>Molecular basis of plant immunity</li>
 
       <li>Genomics and bioinformatics</li>
 
-      <li>Cereal pathology (wheat and its wild relatives and landraces)</li>
+      <li>Gene mapping and cloning</li>
 
-      <li>Phytopathology and gene mapping projects in potatoes and legumes</li>
+      <li>Phytopathology and gene mapping in potatoes and legumes</li>
 
-      <li>Working with scientists and breeding industry stakeholders to develop a proposal for sustainable disease resistance gene deployment</li>
+      <li>Phylogenetics and population genetics, especially of disease resistance genes in diversity panels</li>
 
-    </ul>
+      <li>Working with scientists and breeding industry stakeholders to develop a proposal for sustainable, durable disease resistance gene deployment (based on host gene stacking that is responsive to pathogen population dynamics).</li>
+
+      </ul>
 
   </section>
 
@@ -106,7 +108,7 @@ permalink: /science/
         <h3>Septoria tritici blotch resistance gene Stb15 encodes a lectin receptor-like kinase</h3>
 
         <p>
-          <strong>Amber N. Hafeez</strong>, et al.
+          <strong>Amber N. Hafeez</strong>, <i>et al</i>.
           <em>Nature Plants</em> (2025).
         </p>
 
@@ -122,7 +124,7 @@ permalink: /science/
         <h3>Creation and judicious application of a wheat resistance gene atlas</h3>
 
         <p>
-          <strong>Amber N. Hafeez</strong>, et al.
+          <strong>Amber N. Hafeez</strong>, <i>et al</i>.
           <em>Molecular Plant</em> (2021).
         </p>
 
@@ -135,15 +137,15 @@ permalink: /science/
 
       <article class="science-publication">
 
-        <h3>Harnessing landrace diversity empowers wheat breeding</h3>
+        <h3>Breeding crops to feed 10 billion</h3>
 
         <p>
-          Shifeng Cheng, et al.
-          <em>Nature</em> (2024).
+          Lee T. Hickey, <b>Amber N. Hafeez</b>, <i>et al</i>. 
+          <em>Nature Biotechnology</em> (2019).
         </p>
 
-        <a href="https://www.nature.com/articles/s41586-024-07682-9">
-          Read publication (open access) →
+        <a href="https://www.nature.com/articles/s41587-019-0152-9">
+          Read publication →
         </a>
 
       </article>
