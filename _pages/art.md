@@ -22,7 +22,7 @@ permalink: /art/
   <div class="florilegium-page-intro">
 
     <p>
-      
+      Art and project pages coming soon!
     </p> 
 
     <p>

@@ -39,3 +39,9 @@ permalink: /game-dev/
     <p>
         
     </p>
+
+    <p align="center">
+  <a href="https://ko-fi.com/H2H51J013E" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" height="36" style="border:0px;height:36px;" />
+  </a>
+</p>

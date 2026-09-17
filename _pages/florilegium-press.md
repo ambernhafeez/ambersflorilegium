@@ -175,6 +175,7 @@ permalink: /florilegium-press/
     Check back here for updates. You can also follow @ambersflorilegium on Substack or sign up for the free newsletter!
   </p>
 
+  <p align="center">
   <iframe 
     src="https://ambersflorilegium.substack.com/embed?transparent=1" 
     width="100%" 
@@ -182,6 +183,7 @@ permalink: /florilegium-press/
     style="border: 0; background: transparent; max-width: 480px; width: 100%;" 
     frameborder="0" scrolling="no">
   </iframe>
+  </p>
 
 
 

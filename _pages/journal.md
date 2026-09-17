@@ -40,6 +40,7 @@ author_profile: false
     If you'd like to recieve the free newsletter in your inbox, please sign up by typing your email below, or follow @ambersflorilegium on Substack.
   </p>
 
+  <p align="center">
   <iframe 
     src="https://ambersflorilegium.substack.com/embed?transparent=1" 
     width="100%" 
@@ -47,6 +48,7 @@ author_profile: false
     style="border: 0; background: transparent; max-width: 480px; width: 100%;" 
     frameborder="0" scrolling="no">
   </iframe>
+  </p>
 
 
 
@@ -87,3 +89,9 @@ author_profile: false
   </div>
 
 </section>
+
+<p align="center">
+  <a href="https://ko-fi.com/H2H51J013E" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" height="36" style="border:0px;height:36px;" />
+  </a>
+</p>
